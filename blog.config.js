@@ -1,7 +1,15 @@
+/*
+ * @creater: seyeeL 406668746@qq.com
+ * @since: 2023-06-05 21:28:43
+ * @LastAuthor: seyeeL 406668746@qq.com
+ * @lastTime: 2023-06-05 21:32:18
+ * @文件相对于项目的路径: /nobelium/blog.config.js
+ * @message: 
+ */
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  title: 'Seyee\'s Blog',
+  author: 'Seyee',
+  email: 'seyeeliu@gmail.com',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -11,7 +19,7 @@ const BLOG = {
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
+  since: 2023, // If leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
   showAbout: true,
